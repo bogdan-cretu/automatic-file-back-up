@@ -7,6 +7,6 @@ All changes will be displayed on the console with a time and date stamp and will
 
 The script needs four command line arguments in order to run: source folder, replica(destination) folder, log folder and the interval to perform the verification;
 
-There are no hardcoded destination folders for your files so you must specify your own using -s\--source for source, -r\--replica for replica, -l\--log for log, -i\--interval for wait time between sync checks ;
+There are no hardcoded destination folders for your files so you must specify your own. For more details use "-h" or "--help";
 
 Works universally across platforms: Linux, Windows, MacOs.
